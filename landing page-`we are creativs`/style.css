@@ -247,6 +247,11 @@ ul.icons li a {
     display: flex;
     flex-wrap: wrap;
   }
+
+  .first-section {
+    background: #3ebfffff;
+    background: url("./images/desktop/image-header-mobile.jpg") no-repeat center
+      bottom/cover;}
   .d-menu {
     display: none;
   }
